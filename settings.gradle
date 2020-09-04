@@ -1,4 +1,6 @@
 include ':validation_app'
 rootProject.name='Psorcast'
 
-//includeBuild ('../ResearchModules-Android')
+includeBuild ('../ResearchModules-Android')
+
+includeBuild ('../SageResearch-Android')
